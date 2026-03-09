@@ -33,15 +33,15 @@ Ces technologies permettent de créer une interface moderne, responsive et facil
 
 Page d'accueil
 
-"Accueil" (images/home.png)
+![Accueil](images/home.png)
 
 Section compétences
 
-"Compétences" (images/skills.png)
+![Compétences](images/skills.png)
 
 Section projets
 
-"Projets" (images/projects.png)
+![Projets](images/projects.png)
 
 ---
 
