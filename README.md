@@ -48,10 +48,10 @@ Section projets
 🔗 Liens
 
 🌐 Site web (GitHub Pages)
-https://username.github.io/portfolio/
+https://ilhambaggar.github.io/cv-ilham-baggar/
 
 💻 Dépôt GitHub
-https://github.com/username/portfolio
+https://github.com/ilhambaggar
 
 👩‍💼 LinkedIn
 https://www.linkedin.com/in/ilham-baggar-7bab56309
